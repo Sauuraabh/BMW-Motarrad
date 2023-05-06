@@ -1,4 +1,4 @@
-body{
+ body{
     /* padding: -2px; */
     margin: 0px;
   }
@@ -173,4 +173,7 @@ body{
     grid-column: 1 / 8;
     grid-row: 4 / 5;
   }
-  
+
+  @media screen and (min-width: 600px) and (max-width: 1200px) {
+    
+  }
